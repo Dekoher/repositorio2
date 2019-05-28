@@ -59,3 +59,5 @@ Output: The answer as a string.
 Precondition: 0 < number ≤ 1000
 function fizzBuzz(data) {
 }
+Esta es otra prueba de credenciales diferentes en proyectos diferentes de GitHub
+
